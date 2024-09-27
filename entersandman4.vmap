@@ -1,0 +1,28 @@
+{
+  "id": "3df82afa-dd90-4fe1-9e4f-bf98f0b2b48f",
+  "name": "entersandman4",
+  "elementMappings": [
+    {
+      "sourceName": "line",
+      "sourceId": "01ababb5-1cc7-428d-a4c4-5e7a2050aae7",
+      "targetName": "line",
+      "targetId": "53c92c0d-daba-4efe-a8a8-7b50ada5e3af",
+      "isDirty": true
+    },
+    {
+      "sourceName": "Window1",
+      "sourceId": "89bd7816-55e3-4a9c-b0e1-9c7b10bda340",
+      "targetName": "window1",
+      "targetId": "9e32ff30-e8d1-469a-bf4a-761ba20c3cfc",
+      "isDirty": true
+    },
+    {
+      "sourceName": "Window2",
+      "sourceId": "15357df0-26a1-4a10-a097-ee6f2c7c4df2",
+      "targetName": "window2",
+      "targetId": "c21d933b-8418-42be-a829-ccd8c695d276",
+      "isDirty": true
+    }
+  ],
+  "isDirty": true
+}
