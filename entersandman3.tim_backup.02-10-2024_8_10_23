@@ -17158,14 +17158,70 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>30.57381322082309</d6p1:_x>
-              <d6p1:_y>13.7824314092293</d6p1:_y>
-              <d6p1:_z>92.3156430480075</d6p1:_z>
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
         <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
         <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:LevelCurve>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
+      <ModuleInstanceId>4df8c6f5-ea9e-4c62-894c-649b65bfe7b5</ModuleInstanceId>
+      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
         <d3p1:_title i:nil="true" />
       </d2p1:ColorGradient>
       <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -17360,6 +17416,174 @@
       </d2p1:LevelCurve>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
+      <ModuleInstanceId>9e99e80e-6b4f-4868-a5b4-be4fc8620f55</ModuleInstanceId>
+      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:LevelCurve>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
+      <ModuleInstanceId>60e4c69b-6455-4e1d-ab49-49aabbf66da1</ModuleInstanceId>
+      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:LevelCurve>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
+      <ModuleInstanceId>58759f9e-6319-49c3-b862-db0ea77f8603</ModuleInstanceId>
+      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:LevelCurve>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
       <ModuleInstanceId>4be5a81c-95d0-440c-9a46-3533dc06e6f5</ModuleInstanceId>
       <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
@@ -17463,6 +17687,62 @@
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">93</X>
             <Y i:type="a:double">3</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:LevelCurve>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
+      <ModuleInstanceId>e59dfeb2-f78f-4737-aff0-713383f27fe5</ModuleInstanceId>
+      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">100</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -17799,6 +18079,174 @@
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">93</X>
             <Y i:type="a:double">3</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:LevelCurve>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
+      <ModuleInstanceId>9bc1f129-bffd-4b4b-b363-389dd625ceb6</ModuleInstanceId>
+      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:LevelCurve>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
+      <ModuleInstanceId>0c441274-f6b0-4b48-bd15-0132da205cbe</ModuleInstanceId>
+      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:LevelCurve>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
+      <ModuleInstanceId>eb0b7e4e-35c3-4ad3-9a97-7e1639242b37</ModuleInstanceId>
+      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">100</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -47621,9 +48069,9 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>34.96814994626392</d6p1:_x>
-              <d6p1:_y>23.838216226680636</d6p1:_y>
-              <d6p1:_z>2.7582112259392013</d6p1:_z>
+              <d6p1:_x>30.571164154237298</d6p1:_x>
+              <d6p1:_y>13.780755712464318</d6p1:_y>
+              <d6p1:_z>92.31545922743814</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
@@ -47677,9 +48125,9 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>34.96814994626392</d6p1:_x>
-              <d6p1:_y>23.838216226680636</d6p1:_y>
-              <d6p1:_z>2.7582112259392013</d6p1:_z>
+              <d6p1:_x>30.571164154237298</d6p1:_x>
+              <d6p1:_y>13.780755712464318</d6p1:_y>
+              <d6p1:_z>92.31545922743814</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
@@ -48741,9 +49189,9 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>41.24</d6p1:_x>
-              <d6p1:_y>21.26</d6p1:_y>
-              <d6p1:_z>1.93</d6p1:_z>
+              <d6p1:_x>30.571164154237298</d6p1:_x>
+              <d6p1:_y>13.780755712464318</d6p1:_y>
+              <d6p1:_z>92.31545922743814</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
@@ -48797,9 +49245,9 @@
             <d3p1:_focus>0.5</d3p1:_focus>
             <d3p1:_position>0</d3p1:_position>
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>41.24</d6p1:_x>
-              <d6p1:_y>21.26</d6p1:_y>
-              <d6p1:_z>1.93</d6p1:_z>
+              <d6p1:_x>30.571164154237298</d6p1:_x>
+              <d6p1:_y>13.780755712464318</d6p1:_y>
+              <d6p1:_z>92.31545922743814</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
         </d3p1:_colors>
@@ -48822,454 +49270,6 @@
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">93</X>
             <Y i:type="a:double">3</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-        </d3p1:Points>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-      </d2p1:LevelCurve>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
-      <ModuleInstanceId>e1698d40-6c1f-4507-be77-66cb6f6a4b6b</ModuleInstanceId>
-      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>30.57381322082309</d6p1:_x>
-              <d6p1:_y>13.7824314092293</d6p1:_y>
-              <d6p1:_z>92.3156430480075</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
-        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
-        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">0</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">100</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-        </d3p1:Points>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-      </d2p1:LevelCurve>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
-      <ModuleInstanceId>3dd39095-4270-4db6-a4a4-7426bebd3c70</ModuleInstanceId>
-      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>30.57381322082309</d6p1:_x>
-              <d6p1:_y>13.7824314092293</d6p1:_y>
-              <d6p1:_z>92.3156430480075</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
-        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
-        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">0</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">100</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-        </d3p1:Points>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-      </d2p1:LevelCurve>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
-      <ModuleInstanceId>7579af6e-4318-4d38-9412-092d707c1bd4</ModuleInstanceId>
-      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>30.57381322082309</d6p1:_x>
-              <d6p1:_y>13.7824314092293</d6p1:_y>
-              <d6p1:_z>92.3156430480075</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
-        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
-        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">0</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">100</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-        </d3p1:Points>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-      </d2p1:LevelCurve>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
-      <ModuleInstanceId>efdfa5c0-eb1b-45c7-a77e-e50f968f04b4</ModuleInstanceId>
-      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>30.57381322082309</d6p1:_x>
-              <d6p1:_y>13.7824314092293</d6p1:_y>
-              <d6p1:_z>92.3156430480075</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
-        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
-        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">0</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">100</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-        </d3p1:Points>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-      </d2p1:LevelCurve>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
-      <ModuleInstanceId>cd12028d-3102-4f55-a08c-eb2c0c7920c5</ModuleInstanceId>
-      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>30.57381322082309</d6p1:_x>
-              <d6p1:_y>13.7824314092293</d6p1:_y>
-              <d6p1:_z>92.3156430480075</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
-        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
-        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">0</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">100</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-        </d3p1:Points>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-      </d2p1:LevelCurve>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
-      <ModuleInstanceId>d113f93a-47fc-4da0-ad15-5f3c662b65f3</ModuleInstanceId>
-      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>30.57381322082309</d6p1:_x>
-              <d6p1:_y>13.7824314092293</d6p1:_y>
-              <d6p1:_z>92.3156430480075</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
-        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
-        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">0</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">100</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-        </d3p1:Points>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-      </d2p1:LevelCurve>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
-      <ModuleInstanceId>9676fc45-3340-445f-b14e-39b295e2dae6</ModuleInstanceId>
-      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>30.57381322082309</d6p1:_x>
-              <d6p1:_y>13.7824314092293</d6p1:_y>
-              <d6p1:_z>92.3156430480075</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
-        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
-        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">0</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">100</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-        </d3p1:Points>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-      </d2p1:LevelCurve>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Pulse" i:type="d2p1:PulseData">
-      <ModuleInstanceId>61173279-4b66-49f2-8a1f-bfb2ab71078c</ModuleInstanceId>
-      <ModuleTypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>30.57381322082309</d6p1:_x>
-              <d6p1:_y>13.7824314092293</d6p1:_y>
-              <d6p1:_z>92.3156430480075</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
-        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
-        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">0</X>
-            <Y i:type="a:double">100</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">100</X>
-            <Y i:type="a:double">100</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -50697,24 +50697,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>379f415c-c3cb-4333-be88-2cc99f767bd9</InstanceId>
-      <StartTime>PT35.712S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT1.164S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>51f693ee-1369-4b0a-be2e-4057a0ab5b6d</InstanceId>
       <StartTime>PT35.712S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-robert</Name>
           <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1.164S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>379f415c-c3cb-4333-be88-2cc99f767bd9</InstanceId>
+      <StartTime>PT35.712S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.164S</TimeSpan>
@@ -50853,24 +50853,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>e2b1611e-c8f4-440f-b3cf-70631cd2a7ce</InstanceId>
-      <StartTime>PT39.6520765S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT1.164S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>87f21084-3f45-4409-87ae-31b4b6370212</InstanceId>
       <StartTime>PT39.6520765S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-robert</Name>
           <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1.164S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>e2b1611e-c8f4-440f-b3cf-70631cd2a7ce</InstanceId>
+      <StartTime>PT39.6520765S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.164S</TimeSpan>
@@ -51009,24 +51009,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>ac9708a0-e682-414d-8e6c-12c9ef1f7682</InstanceId>
-      <StartTime>PT42.7802132S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-robert</Name>
-          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.224S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>4ee74b64-12af-4943-8edb-c7ef3140cf03</InstanceId>
       <StartTime>PT42.7802132S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-chech</Name>
           <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.224S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>ac9708a0-e682-414d-8e6c-12c9ef1f7682</InstanceId>
+      <StartTime>PT42.7802132S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-robert</Name>
+          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.224S</TimeSpan>
@@ -51105,24 +51105,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>e2538831-0c9c-471c-86bd-26f05c46f33f</InstanceId>
-      <StartTime>PT44.7512977S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-robert</Name>
-          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.224S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>eb6b5b72-f509-4e3e-a8b0-adeb5debb8d1</InstanceId>
       <StartTime>PT44.7512977S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-chech</Name>
           <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.224S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>e2538831-0c9c-471c-86bd-26f05c46f33f</InstanceId>
+      <StartTime>PT44.7512977S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-robert</Name>
+          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.224S</TimeSpan>
@@ -51153,24 +51153,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>6080bcbf-2937-4654-9a56-3437d0981042</InstanceId>
-      <StartTime>PT45.5090133S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT1.164S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>3f32e0f6-3cab-4402-84a5-792f0ff0aed5</InstanceId>
       <StartTime>PT45.5090133S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-robert</Name>
           <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1.164S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>6080bcbf-2937-4654-9a56-3437d0981042</InstanceId>
+      <StartTime>PT45.5090133S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.164S</TimeSpan>
@@ -51225,12 +51225,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>7cb42ce1-2555-4431-9a1d-91950b61cbec</InstanceId>
+      <InstanceId>a3222c7b-d843-4d11-abea-fbaca5b35149</InstanceId>
       <StartTime>PT47.4749781S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
+          <Name>cocina-robert</Name>
+          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.164S</TimeSpan>
@@ -51249,12 +51249,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>a3222c7b-d843-4d11-abea-fbaca5b35149</InstanceId>
+      <InstanceId>7cb42ce1-2555-4431-9a1d-91950b61cbec</InstanceId>
       <StartTime>PT47.4749781S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>cocina-robert</Name>
-          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.164S</TimeSpan>
@@ -51297,24 +51297,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>7010066f-244e-4338-aa10-03692d5a529a</InstanceId>
-      <StartTime>PT48.6832273S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.224S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>708a5acd-27b6-4331-92ca-0fb70383b93b</InstanceId>
       <StartTime>PT48.6832273S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-robert</Name>
           <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.224S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>7010066f-244e-4338-aa10-03692d5a529a</InstanceId>
+      <StartTime>PT48.6832273S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.224S</TimeSpan>
@@ -51489,24 +51489,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>8be0e8c5-cbf4-45ba-8c44-59e3c07b66ed</InstanceId>
-      <StartTime>PT51.8779201S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>linea-chech</Name>
-          <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.1472045S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>3e5ab6ed-45c7-414a-9bbc-16d7d7a8f563</InstanceId>
       <StartTime>PT51.8779201S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>linea-robert</Name>
           <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.1472045S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>8be0e8c5-cbf4-45ba-8c44-59e3c07b66ed</InstanceId>
+      <StartTime>PT51.8779201S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-chech</Name>
+          <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1472045S</TimeSpan>
@@ -51561,18 +51561,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>e3c0d2bc-5188-469b-8ae8-1f4f3a92b153</InstanceId>
-      <StartTime>PT52.3591719S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>bano-chech</Name>
-          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.224S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>8471ce9d-1969-4786-986e-da9898b9ef40</InstanceId>
       <StartTime>PT52.3591719S</StartTime>
       <TargetNodes>
@@ -51585,12 +51573,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>5d1f2f14-d619-4076-b0ac-b507322664b6</InstanceId>
-      <StartTime>PT52.5997978S</StartTime>
+      <InstanceId>e3c0d2bc-5188-469b-8ae8-1f4f3a92b153</InstanceId>
+      <StartTime>PT52.3591719S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
+          <Name>bano-chech</Name>
+          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.224S</TimeSpan>
@@ -51603,6 +51591,18 @@
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-robert</Name>
           <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.224S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>5d1f2f14-d619-4076-b0ac-b507322664b6</InstanceId>
+      <StartTime>PT52.5997978S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.224S</TimeSpan>
@@ -51753,24 +51753,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>f421640a-33bb-487e-8564-7c946872848b</InstanceId>
-      <StartTime>PT53.808047S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.1472045S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>3a26a2eb-85df-4209-ba20-1ca672961b3d</InstanceId>
       <StartTime>PT53.808047S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>linea-chech</Name>
           <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.1472045S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>f421640a-33bb-487e-8564-7c946872848b</InstanceId>
+      <StartTime>PT53.808047S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1472045S</TimeSpan>
@@ -51873,24 +51873,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>7675e966-0f0e-4653-850e-573e658224a4</InstanceId>
-      <StartTime>PT54.5555232S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.224S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>448aca83-fefd-4322-ab74-e65a71b2b3b0</InstanceId>
       <StartTime>PT54.5555232S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-robert</Name>
           <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.224S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>7675e966-0f0e-4653-850e-573e658224a4</InstanceId>
+      <StartTime>PT54.5555232S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.224S</TimeSpan>
@@ -51993,18 +51993,6 @@
       <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>9fad3a13-fe31-4883-8660-2c532131ca3a</InstanceId>
-      <StartTime>PT55.2876403S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>linea-chech</Name>
-          <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT5.5650747S</TimeSpan>
-      <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>5e10bd2a-548a-400a-9084-a9baba1e7dc3</InstanceId>
       <StartTime>PT55.2876403S</StartTime>
       <TargetNodes>
@@ -52014,6 +52002,18 @@
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT5.5701944S</TimeSpan>
+      <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>9fad3a13-fe31-4883-8660-2c532131ca3a</InstanceId>
+      <StartTime>PT55.2876403S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-chech</Name>
+          <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT5.5650747S</TimeSpan>
       <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -53165,7 +53165,7 @@
           <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.2649102S</TimeSpan>
+      <TimeSpan>PT0.2598379S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -53181,20 +53181,8 @@
       <TypeId>52f17f4b-2159-4820-8660-05cd9d1f47c1</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>b19f9c8d-96cf-4a83-a546-80a9a8a461bc</InstanceId>
-      <StartTime>PT1M27.3510546S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT1.2102771S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>fda505ed-3c08-4f4e-9f69-ca6da9aa1748</InstanceId>
-      <StartTime>PT1M27.3589504S</StartTime>
+      <StartTime>PT1M27.3267229S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-robert</Name>
@@ -53205,15 +53193,15 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>2c90c3f2-03b6-476f-af83-c6a78e0652dc</InstanceId>
-      <StartTime>PT1M28.132S</StartTime>
+      <InstanceId>b19f9c8d-96cf-4a83-a546-80a9a8a461bc</InstanceId>
+      <StartTime>PT1M27.3510546S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT1.8642978S</TimeSpan>
+      <TimeSpan>PT1.2102771S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -53229,8 +53217,20 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>e1698d40-6c1f-4507-be77-66cb6f6a4b6b</InstanceId>
-      <StartTime>PT1M28.5398836S</StartTime>
+      <InstanceId>2c90c3f2-03b6-476f-af83-c6a78e0652dc</InstanceId>
+      <StartTime>PT1M28.132S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1.8642978S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>4df8c6f5-ea9e-4c62-894c-649b65bfe7b5</InstanceId>
+      <StartTime>PT1M28.537S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>bano-chech</Name>
@@ -53253,15 +53253,15 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>3dd39095-4270-4db6-a4a4-7426bebd3c70</InstanceId>
-      <StartTime>PT1M29.015932S</StartTime>
+      <InstanceId>e59dfeb2-f78f-4737-aff0-713383f27fe5</InstanceId>
+      <StartTime>PT1M29.031583S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-chech</Name>
           <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.2409178S</TimeSpan>
+      <TimeSpan>PT0.2252668S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -53313,8 +53313,8 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>efdfa5c0-eb1b-45c7-a77e-e50f968f04b4</InstanceId>
-      <StartTime>PT1M30.4696712S</StartTime>
+      <InstanceId>9e99e80e-6b4f-4868-a5b4-be4fc8620f55</InstanceId>
+      <StartTime>PT1M30.465099S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>bano-chech</Name>
@@ -53325,8 +53325,8 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>7579af6e-4318-4d38-9412-092d707c1bd4</InstanceId>
-      <StartTime>PT1M30.7102548S</StartTime>
+      <InstanceId>60e4c69b-6455-4e1d-ab49-49aabbf66da1</InstanceId>
+      <StartTime>PT1M30.7006052S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>bano-robert</Name>
@@ -53337,7 +53337,7 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>cd12028d-3102-4f55-a08c-eb2c0c7920c5</InstanceId>
+      <InstanceId>58759f9e-6319-49c3-b862-db0ea77f8603</InstanceId>
       <StartTime>PT1M30.9405S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
@@ -53345,19 +53345,7 @@
           <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.2325S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>4be5a81c-95d0-440c-9a46-3533dc06e6f5</InstanceId>
-      <StartTime>PT1M31.173S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT1.237615S</TimeSpan>
+      <TimeSpan>PT0.2598379S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -53367,6 +53355,18 @@
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-robert</Name>
           <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1.2102771S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>4be5a81c-95d0-440c-9a46-3533dc06e6f5</InstanceId>
+      <StartTime>PT1M31.2003379S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.2102771S</TimeSpan>
@@ -53397,18 +53397,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>9676fc45-3340-445f-b14e-39b295e2dae6</InstanceId>
-      <StartTime>PT1M32.3892212S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>bano-chech</Name>
-          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.2598379S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>2debd03d-4386-41ed-8151-a16ad363816a</InstanceId>
       <StartTime>PT1M32.3901062S</StartTime>
       <TargetNodes>
@@ -53433,6 +53421,18 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
+      <InstanceId>9bc1f129-bffd-4b4b-b363-389dd625ceb6</InstanceId>
+      <StartTime>PT1M32.3952259S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-chech</Name>
+          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.2598379S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
       <InstanceId>9414b419-d9fd-44f6-bf95-e2c8cc458631</InstanceId>
       <StartTime>PT1M32.6307321S</StartTime>
       <TargetNodes>
@@ -53445,8 +53445,8 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>d113f93a-47fc-4da0-ad15-5f3c662b65f3</InstanceId>
-      <StartTime>PT1M32.6349236S</StartTime>
+      <InstanceId>0c441274-f6b0-4b48-bd15-0132da205cbe</InstanceId>
+      <StartTime>PT1M32.6307321S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>bano-robert</Name>
@@ -53469,6 +53469,18 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
+      <InstanceId>eb0b7e4e-35c3-4ad3-9a97-7e1639242b37</InstanceId>
+      <StartTime>PT1M32.8764777S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.2598379S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
       <InstanceId>7bd8a142-9fe7-4d8c-9491-88ae19edf71e</InstanceId>
       <StartTime>PT1M32.8764777S</StartTime>
       <TargetNodes>
@@ -53478,18 +53490,6 @@
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1472045S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>61173279-4b66-49f2-8a1f-bfb2ab71078c</InstanceId>
-      <StartTime>PT1M32.880626S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.231374S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -53517,18 +53517,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>03588560-daa4-43c6-9259-c9c0d999cbba</InstanceId>
-      <StartTime>PT1M33.112S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.9235578S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>ded21d90-c982-4028-b588-122df538bdc6</InstanceId>
       <StartTime>PT1M33.1171036S</StartTime>
       <TargetNodes>
@@ -53550,6 +53538,18 @@
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1472045S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>03588560-daa4-43c6-9259-c9c0d999cbba</InstanceId>
+      <StartTime>PT1M33.1375824S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.8979754S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -53769,18 +53769,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>be056894-b1f3-4f04-a4e1-cca705c3d200</InstanceId>
-      <StartTime>PT1M36.722S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>bano-robert</Name>
-          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.2700773S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>bdaf494b-e6c7-4313-9c7e-219cd6ca886a</InstanceId>
       <StartTime>PT1M36.722S</StartTime>
       <TargetNodes>
@@ -53790,6 +53778,18 @@
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.2547182S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>be056894-b1f3-4f04-a4e1-cca705c3d200</InstanceId>
+      <StartTime>PT1M36.722S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-robert</Name>
+          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.2700773S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -53841,24 +53841,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>22d05535-37aa-4299-b9cf-12c2a0bca058</InstanceId>
-      <StartTime>PT1M38.644S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>bano-chech</Name>
-          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.2598379S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>4e9615ec-67e9-4675-8d99-1d77970ee1d3</InstanceId>
       <StartTime>PT1M38.644S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>bano-robert</Name>
           <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.2598379S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>22d05535-37aa-4299-b9cf-12c2a0bca058</InstanceId>
+      <StartTime>PT1M38.644S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-chech</Name>
+          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.2598379S</TimeSpan>
@@ -54009,18 +54009,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>c0bf9a84-0446-41dd-984f-f54d962f9d92</InstanceId>
-      <StartTime>PT1M41.7489178S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.739471S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>b61e9ae4-a5bf-456c-b290-dcc2fa1173a1</InstanceId>
       <StartTime>PT1M41.7489178S</StartTime>
       <TargetNodes>
@@ -54033,24 +54021,36 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>19ef2935-9204-40f5-bbbc-3ff431011948</InstanceId>
-      <StartTime>PT1M42.556S</StartTime>
+      <InstanceId>c0bf9a84-0446-41dd-984f-f54d962f9d92</InstanceId>
+      <StartTime>PT1M41.7489178S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>bano-chech</Name>
-          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.739471S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>98d6fcfa-9a05-4b2c-b7e2-455d609d2c48</InstanceId>
+      <StartTime>PT1M42.547591S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-robert</Name>
+          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.2700773S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>98d6fcfa-9a05-4b2c-b7e2-455d609d2c48</InstanceId>
-      <StartTime>PT1M42.556S</StartTime>
+      <InstanceId>19ef2935-9204-40f5-bbbc-3ff431011948</InstanceId>
+      <StartTime>PT1M42.5578304S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>bano-robert</Name>
-          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
+          <Name>bano-chech</Name>
+          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.2700773S</TimeSpan>
@@ -54081,18 +54081,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>408547c0-1943-4492-8e7b-05377aa601cc</InstanceId>
-      <StartTime>PT1M43.433S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT1.9374808S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>56c63640-06ae-4097-927c-af49491c2c64</InstanceId>
       <StartTime>PT1M43.433S</StartTime>
       <TargetNodes>
@@ -54117,12 +54105,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>6f366c84-8d51-4054-bb81-3cf0b205437e</InstanceId>
-      <StartTime>PT1M43.4332991S</StartTime>
+      <InstanceId>408547c0-1943-4492-8e7b-05377aa601cc</InstanceId>
+      <StartTime>PT1M43.433S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.9374808S</TimeSpan>
@@ -54135,6 +54123,18 @@
         <ChannelNodeReferenceSurrogate>
           <Name>bano-chech</Name>
           <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1.9374808S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>6f366c84-8d51-4054-bb81-3cf0b205437e</InstanceId>
+      <StartTime>PT1M43.4332991S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.9374808S</TimeSpan>
@@ -54321,18 +54321,6 @@
       <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>1cef1496-9fa9-455f-8b33-06e1317b5ee4</InstanceId>
-      <StartTime>PT1M47.3396302S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-robert</Name>
-          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT5.5701944S</TimeSpan>
-      <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>4bb2953a-d50c-457b-8f0e-66aaa45034da</InstanceId>
       <StartTime>PT1M47.3396302S</StartTime>
       <TargetNodes>
@@ -54354,6 +54342,18 @@
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT5.5855535S</TimeSpan>
+      <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>1cef1496-9fa9-455f-8b33-06e1317b5ee4</InstanceId>
+      <StartTime>PT1M47.3396302S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-robert</Name>
+          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT5.5701944S</TimeSpan>
       <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -54725,7 +54725,7 @@
           <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.5018018S</TimeSpan>
+      <TimeSpan>PT0.2854364S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -54737,7 +54737,7 @@
           <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.4753616S</TimeSpan>
+      <TimeSpan>PT0.2700773S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -54749,7 +54749,7 @@
           <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.5106591S</TimeSpan>
+      <TimeSpan>PT0.2598379S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -54761,7 +54761,7 @@
           <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.5055412S</TimeSpan>
+      <TimeSpan>PT0.2649576S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -54773,7 +54773,7 @@
           <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.4925117S</TimeSpan>
+      <TimeSpan>PT0.2803167S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -54785,7 +54785,7 @@
           <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.4799813S</TimeSpan>
+      <TimeSpan>PT0.2547182S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -54797,7 +54797,7 @@
           <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.4901961S</TimeSpan>
+      <TimeSpan>PT0.2547182S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -54809,7 +54809,19 @@
           <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.4784711S</TimeSpan>
+      <TimeSpan>PT0.2700773S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>26d22eb9-5241-47d5-9415-8f7e5a7d2f6d</InstanceId>
+      <StartTime>PT1M58.1627793S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.2547182S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -54821,19 +54833,7 @@
           <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.485066S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>26d22eb9-5241-47d5-9415-8f7e5a7d2f6d</InstanceId>
-      <StartTime>PT1M58.189S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.464S</TimeSpan>
+      <TimeSpan>PT0.2649576S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -55137,18 +55137,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>29290f92-6fce-4174-a69b-190bc4871eb7</InstanceId>
-      <StartTime>PT2M8.6273428S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>linea-chech</Name>
-          <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.6452981S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>2962a22d-03a7-4e20-a23a-730b010f4964</InstanceId>
       <StartTime>PT2M8.6273428S</StartTime>
       <TargetNodes>
@@ -55158,6 +55146,18 @@
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.6502019S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>29290f92-6fce-4174-a69b-190bc4871eb7</InstanceId>
+      <StartTime>PT2M8.6273428S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-chech</Name>
+          <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.6452981S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -55197,18 +55197,6 @@
       <TypeId>7e1b81bd-1b69-4238-9f55-06462cdc374c</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>1fe97593-ff42-49b2-8f43-1cd05cec2964</InstanceId>
-      <StartTime>PT2M9.2775447S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.4864553S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>cb73f4e8-674f-4329-b887-b59bc57527bf</InstanceId>
       <StartTime>PT2M9.2775447S</StartTime>
       <TargetNodes>
@@ -55219,6 +55207,18 @@
       </TargetNodes>
       <TimeSpan>PT0.2644217S</TimeSpan>
       <TypeId>7e1b81bd-1b69-4238-9f55-06462cdc374c</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>1fe97593-ff42-49b2-8f43-1cd05cec2964</InstanceId>
+      <StartTime>PT2M9.2775447S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.4864553S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>0b31ede0-690b-41ce-9a8f-c4cb03af8f80</InstanceId>
@@ -55257,18 +55257,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>87017d58-e44a-452c-86a1-c277156e18b5</InstanceId>
-      <StartTime>PT2M9.7690359S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>linea-chech</Name>
-          <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.2797808S</TimeSpan>
-      <TypeId>7e1b81bd-1b69-4238-9f55-06462cdc374c</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>f6d4d615-1af7-4bcc-bbb7-db1d7c93dde5</InstanceId>
       <StartTime>PT2M9.7690359S</StartTime>
       <TargetNodes>
@@ -55281,15 +55269,15 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>51d3b636-e7a6-4b89-9f78-1a77f0bbde86</InstanceId>
-      <StartTime>PT2M9.7739397S</StartTime>
+      <InstanceId>87017d58-e44a-452c-86a1-c277156e18b5</InstanceId>
+      <StartTime>PT2M9.7690359S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+          <Name>linea-chech</Name>
+          <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.2644217S</TimeSpan>
+      <TimeSpan>PT0.2797808S</TimeSpan>
       <TypeId>7e1b81bd-1b69-4238-9f55-06462cdc374c</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -55303,6 +55291,18 @@
       </TargetNodes>
       <TimeSpan>PT0.4660603S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>51d3b636-e7a6-4b89-9f78-1a77f0bbde86</InstanceId>
+      <StartTime>PT2M9.7739397S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.2644217S</TimeSpan>
+      <TypeId>7e1b81bd-1b69-4238-9f55-06462cdc374c</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>11a24b1b-8b67-4cc7-a7b2-40add7f984f4</InstanceId>
@@ -55341,18 +55341,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>30584766-5e60-4688-9221-2522da4144ad</InstanceId>
-      <StartTime>PT2M10.2449521S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.4864553S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>33d9a735-bf15-4115-891e-73e7cf9f02ab</InstanceId>
       <StartTime>PT2M10.2449521S</StartTime>
       <TargetNodes>
@@ -55363,6 +55351,18 @@
       </TargetNodes>
       <TimeSpan>PT0.7374527S</TimeSpan>
       <TypeId>7e1b81bd-1b69-4238-9f55-06462cdc374c</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>30584766-5e60-4688-9221-2522da4144ad</InstanceId>
+      <StartTime>PT2M10.2449521S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.4864553S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>ecd1878a-61f5-487c-bbc3-28ec3632f036</InstanceId>
@@ -55401,18 +55401,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>ff52346e-283b-47fb-9ae5-0c0e3938a58b</InstanceId>
-      <StartTime>PT2M11.2537489S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>bano-chech</Name>
-          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT5.0513412S</TimeSpan>
-      <TypeId>2bff1008-56e2-4bff-8ce3-a23189ea4684</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>204894f7-2cfa-4089-95cb-32c3f736206d</InstanceId>
       <StartTime>PT2M11.2537489S</StartTime>
       <TargetNodes>
@@ -55431,6 +55419,18 @@
         <ChannelNodeReferenceSurrogate>
           <Name>bano-robert</Name>
           <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT5.0513412S</TimeSpan>
+      <TypeId>2bff1008-56e2-4bff-8ce3-a23189ea4684</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>ff52346e-283b-47fb-9ae5-0c0e3938a58b</InstanceId>
+      <StartTime>PT2M11.2537489S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-chech</Name>
+          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT5.0513412S</TimeSpan>
@@ -55497,24 +55497,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>fbfac545-a394-4bbb-b354-8896c03011e3</InstanceId>
-      <StartTime>PT2M16.2761746S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT1.916979S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>ae785769-9e92-409d-8da6-68fee8c7606b</InstanceId>
       <StartTime>PT2M16.2761746S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>linea-chech</Name>
           <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1.916979S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>fbfac545-a394-4bbb-b354-8896c03011e3</InstanceId>
+      <StartTime>PT2M16.2761746S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.916979S</TimeSpan>
@@ -55593,24 +55593,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>817b6406-09ba-433b-9ff3-f996cafa610a</InstanceId>
-      <StartTime>PT2M18.17S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-robert</Name>
-          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.975S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>5809353a-93a9-4d79-b50a-fc6c18e57a5c</InstanceId>
       <StartTime>PT2M18.17S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-chech</Name>
           <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.975S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>817b6406-09ba-433b-9ff3-f996cafa610a</InstanceId>
+      <StartTime>PT2M18.17S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-robert</Name>
+          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.975S</TimeSpan>
@@ -55893,24 +55893,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>6e5d0412-f8a8-4f70-b1fc-b0a8c0d49709</InstanceId>
-      <StartTime>PT2M24.4574552S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>bano-chech</Name>
-          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.1504304S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>58cdea81-2168-4f04-ad80-bc6a07055fec</InstanceId>
       <StartTime>PT2M24.4574552S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>linea-robert</Name>
           <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.1504304S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>6e5d0412-f8a8-4f70-b1fc-b0a8c0d49709</InstanceId>
+      <StartTime>PT2M24.4574552S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-chech</Name>
+          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1504304S</TimeSpan>
@@ -55989,18 +55989,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>66d11db8-af99-482d-bfb9-5ed5a98bf250</InstanceId>
-      <StartTime>PT2M24.9335873S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-robert</Name>
-          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.1504304S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>b9872689-b7b2-4be7-9dc0-38868238de9f</InstanceId>
       <StartTime>PT2M24.9335873S</StartTime>
       <TargetNodes>
@@ -56013,12 +56001,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>b488145a-4e07-4a6f-a63f-3a3224065267</InstanceId>
-      <StartTime>PT2M24.9351919S</StartTime>
+      <InstanceId>66d11db8-af99-482d-bfb9-5ed5a98bf250</InstanceId>
+      <StartTime>PT2M24.9335873S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
+          <Name>cocina-robert</Name>
+          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1504304S</TimeSpan>
@@ -56037,12 +56025,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>ea942195-b49e-44db-9085-9c1d38b9124a</InstanceId>
-      <StartTime>PT2M24.9403116S</StartTime>
+      <InstanceId>b488145a-4e07-4a6f-a63f-3a3224065267</InstanceId>
+      <StartTime>PT2M24.9351919S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>bano-chech</Name>
-          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1504304S</TimeSpan>
@@ -56055,6 +56043,18 @@
         <ChannelNodeReferenceSurrogate>
           <Name>linea-robert</Name>
           <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.1504304S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>ea942195-b49e-44db-9085-9c1d38b9124a</InstanceId>
+      <StartTime>PT2M24.9403116S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-chech</Name>
+          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1504304S</TimeSpan>
@@ -56085,24 +56085,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>16b0fe65-dce7-47b3-8d89-8a119c3d302e</InstanceId>
-      <StartTime>PT2M25.1604587S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>linea-chech</Name>
-          <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.1504304S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>a1470e09-37ae-4529-9b70-e8980dc8674a</InstanceId>
       <StartTime>PT2M25.1604587S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-chech</Name>
           <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.1504304S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>16b0fe65-dce7-47b3-8d89-8a119c3d302e</InstanceId>
+      <StartTime>PT2M25.1604587S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-chech</Name>
+          <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1504304S</TimeSpan>
@@ -56133,18 +56133,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>6f155f36-22fa-41e0-8a09-2eba798bc1fa</InstanceId>
-      <StartTime>PT2M25.4097194S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-robert</Name>
-          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.1504304S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>f09a9c65-d868-4bf2-afab-9cc70ccb2705</InstanceId>
       <StartTime>PT2M25.4097194S</StartTime>
       <TargetNodes>
@@ -56157,12 +56145,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>245dd415-d8e8-478a-b5b1-cf3f7ac4df2a</InstanceId>
-      <StartTime>PT2M25.411324S</StartTime>
+      <InstanceId>6f155f36-22fa-41e0-8a09-2eba798bc1fa</InstanceId>
+      <StartTime>PT2M25.4097194S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>linea-chech</Name>
-          <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
+          <Name>cocina-robert</Name>
+          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1504304S</TimeSpan>
@@ -56181,12 +56169,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>75f4d7d9-36be-444e-b926-2ebb86eb703c</InstanceId>
-      <StartTime>PT2M25.4164437S</StartTime>
+      <InstanceId>245dd415-d8e8-478a-b5b1-cf3f7ac4df2a</InstanceId>
+      <StartTime>PT2M25.411324S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+          <Name>linea-chech</Name>
+          <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1504304S</TimeSpan>
@@ -56199,6 +56187,18 @@
         <ChannelNodeReferenceSurrogate>
           <Name>bano-chech</Name>
           <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.1504304S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>75f4d7d9-36be-444e-b926-2ebb86eb703c</InstanceId>
+      <StartTime>PT2M25.4164437S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1504304S</TimeSpan>
@@ -56229,18 +56229,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>833790ac-e8cb-4899-8b78-139495399af4</InstanceId>
-      <StartTime>PT2M25.6365908S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.1504304S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>9d2541c9-ed04-4c61-8be9-eae6ec9c483c</InstanceId>
       <StartTime>PT2M25.6365908S</StartTime>
       <TargetNodes>
@@ -56253,12 +56241,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>d8798e22-4112-4d6e-942b-6e43b4adfe70</InstanceId>
-      <StartTime>PT2M25.6417105S</StartTime>
+      <InstanceId>833790ac-e8cb-4899-8b78-139495399af4</InstanceId>
+      <StartTime>PT2M25.6365908S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1504304S</TimeSpan>
@@ -56277,6 +56265,18 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
+      <InstanceId>d8798e22-4112-4d6e-942b-6e43b4adfe70</InstanceId>
+      <StartTime>PT2M25.6417105S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.1504304S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
       <InstanceId>c2739d2b-98f3-4791-b936-721888bebf44</InstanceId>
       <StartTime>PT2M25.9933652S</StartTime>
       <TargetNodes>
@@ -56289,18 +56289,6 @@
       <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>7aeec130-185e-4ec1-a86e-253eb60ca9db</InstanceId>
-      <StartTime>PT2M25.9984849S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT5.734064S</TimeSpan>
-      <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>b12b0ad0-7b9e-4a16-94a9-ab4e93e811b2</InstanceId>
       <StartTime>PT2M25.9984849S</StartTime>
       <TargetNodes>
@@ -56310,6 +56298,18 @@
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT5.7443034S</TimeSpan>
+      <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>7aeec130-185e-4ec1-a86e-253eb60ca9db</InstanceId>
+      <StartTime>PT2M25.9984849S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT5.734064S</TimeSpan>
       <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -56337,18 +56337,6 @@
       <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>496debc0-4f62-42c7-8cee-408a1918c52e</InstanceId>
-      <StartTime>PT2M26.0087243S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>bano-robert</Name>
-          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT5.713546S</TimeSpan>
-      <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>ca833095-8276-449a-820b-987bb9e5b8c4</InstanceId>
       <StartTime>PT2M26.0087243S</StartTime>
       <TargetNodes>
@@ -56359,6 +56347,18 @@
       </TargetNodes>
       <TimeSpan>PT0.739471S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>496debc0-4f62-42c7-8cee-408a1918c52e</InstanceId>
+      <StartTime>PT2M26.0087243S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-robert</Name>
+          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT5.713546S</TimeSpan>
+      <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>22396cd4-93ab-4d3d-b644-353ca81d58c3</InstanceId>
@@ -56445,18 +56445,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>ee75a756-0c09-4050-9f90-6d6cb8a9b04d</InstanceId>
-      <StartTime>PT2M28.6664762S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>bano-robert</Name>
-          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.2700773S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>8a126d2d-67cf-412c-b3bc-f4c16bf2f25e</InstanceId>
       <StartTime>PT2M28.6664762S</StartTime>
       <TargetNodes>
@@ -56469,15 +56457,15 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>4c26be89-eded-41a8-a974-2da91cf6279c</InstanceId>
-      <StartTime>PT2M28.879758S</StartTime>
+      <InstanceId>ee75a756-0c09-4050-9f90-6d6cb8a9b04d</InstanceId>
+      <StartTime>PT2M28.6664762S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
+          <Name>bano-robert</Name>
+          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT0.4390274S</TimeSpan>
+      <TimeSpan>PT0.2700773S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -56490,6 +56478,18 @@
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.4339077S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>4c26be89-eded-41a8-a974-2da91cf6279c</InstanceId>
+      <StartTime>PT2M28.879758S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.4390274S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -56769,18 +56769,6 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>559d1f4d-e22d-4f8c-8839-8af86c29cba1</InstanceId>
-      <StartTime>PT2M35.4901096S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-robert</Name>
-          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT1.9374808S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>c0364d9c-69a7-4249-a8c4-f3df8aa91be3</InstanceId>
       <StartTime>PT2M35.4901096S</StartTime>
       <TargetNodes>
@@ -56793,12 +56781,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>bb85ad62-43fd-4306-9ff1-05fc8e733f07</InstanceId>
-      <StartTime>PT2M35.4904087S</StartTime>
+      <InstanceId>559d1f4d-e22d-4f8c-8839-8af86c29cba1</InstanceId>
+      <StartTime>PT2M35.4901096S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>bano-chech</Name>
-          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
+          <Name>cocina-robert</Name>
+          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.9374808S</TimeSpan>
@@ -56811,6 +56799,18 @@
         <ChannelNodeReferenceSurrogate>
           <Name>linea-robert</Name>
           <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1.9374808S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>bb85ad62-43fd-4306-9ff1-05fc8e733f07</InstanceId>
+      <StartTime>PT2M35.4904087S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-chech</Name>
+          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.9374808S</TimeSpan>
@@ -57537,18 +57537,6 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>7e878e3d-ea4e-4fc4-ba83-dd727a52b25c</InstanceId>
-      <StartTime>PT2M48.9910576S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>bano-robert</Name>
-          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT2.0581194S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>80d808c4-fb46-4ab7-8a06-334c1b1a5c07</InstanceId>
       <StartTime>PT2M48.9910576S</StartTime>
       <TargetNodes>
@@ -57558,6 +57546,18 @@
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT3.1332564S</TimeSpan>
+      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>7e878e3d-ea4e-4fc4-ba83-dd727a52b25c</InstanceId>
+      <StartTime>PT2M48.9910576S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-robert</Name>
+          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT2.0581194S</TimeSpan>
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -58077,12 +58077,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>ca5a61ee-d47f-4aab-a698-67dc73621c8f</InstanceId>
+      <InstanceId>8406c521-e1c1-46c7-af5a-aaf4ec5a94e8</InstanceId>
       <StartTime>PT2M55.0067051S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+          <Name>cocina-robert</Name>
+          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1164863S</TimeSpan>
@@ -58101,12 +58101,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>8406c521-e1c1-46c7-af5a-aaf4ec5a94e8</InstanceId>
+      <InstanceId>ca5a61ee-d47f-4aab-a698-67dc73621c8f</InstanceId>
       <StartTime>PT2M55.0067051S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>cocina-robert</Name>
-          <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1164863S</TimeSpan>
@@ -58221,6 +58221,18 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
+      <InstanceId>52a7b531-bd51-4b56-9d6d-2504ade5b3db</InstanceId>
+      <StartTime>PT2M55.4060417S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-robert</Name>
+          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.1164863S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
       <InstanceId>fcfd0271-b040-4cbd-8067-9f072adc84ee</InstanceId>
       <StartTime>PT2M55.4060417S</StartTime>
       <TargetNodes>
@@ -58239,18 +58251,6 @@
         <ChannelNodeReferenceSurrogate>
           <Name>linea-robert</Name>
           <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.1164863S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>52a7b531-bd51-4b56-9d6d-2504ade5b3db</InstanceId>
-      <StartTime>PT2M55.4060417S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>bano-robert</Name>
-          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1164863S</TimeSpan>
@@ -58305,24 +58305,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>4db8e505-65f0-4a00-8f9a-07fb6345d1e9</InstanceId>
-      <StartTime>PT2M55.6005903S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>bano-robert</Name>
-          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.1164863S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>dfc310da-592f-4549-b3d3-52f6611a745f</InstanceId>
       <StartTime>PT2M55.6005903S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-robert</Name>
           <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.1164863S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>4db8e505-65f0-4a00-8f9a-07fb6345d1e9</InstanceId>
+      <StartTime>PT2M55.6005903S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-robert</Name>
+          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1164863S</TimeSpan>
@@ -58365,12 +58365,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>33f7481e-b5e0-40a8-8aad-87677e0483c6</InstanceId>
+      <InstanceId>b68aa238-aa6b-4671-8e30-9666d03e2f6c</InstanceId>
       <StartTime>PT2M55.7951389S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>linea-robert</Name>
-          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
+          <Name>bano-robert</Name>
+          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1164863S</TimeSpan>
@@ -58389,12 +58389,12 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>b68aa238-aa6b-4671-8e30-9666d03e2f6c</InstanceId>
+      <InstanceId>33f7481e-b5e0-40a8-8aad-87677e0483c6</InstanceId>
       <StartTime>PT2M55.7951389S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <Name>bano-robert</Name>
-          <NodeId>32183495-1518-4755-b199-b7c1d7ac56f4</NodeId>
+          <Name>linea-robert</Name>
+          <NodeId>6d6c1197-6976-4211-9345-9e7dacbfc0b4</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.1164863S</TimeSpan>
@@ -58413,24 +58413,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>5e7cc023-40ca-4770-b678-9ac686711a2b</InstanceId>
-      <StartTime>PT2M55.9692087S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>cocina-chech</Name>
-          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.7366956S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>0d43a499-cf3a-4922-9f92-610ab310a597</InstanceId>
       <StartTime>PT2M55.9692087S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>cocina-robert</Name>
           <NodeId>1c64a087-c25b-4a85-bd90-b9e80b1a9952</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.7366956S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>5e7cc023-40ca-4770-b678-9ac686711a2b</InstanceId>
+      <StartTime>PT2M55.9692087S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>cocina-chech</Name>
+          <NodeId>3e61f027-4341-4ed4-a604-13eef12c4ddb</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.7366956S</TimeSpan>
@@ -58461,24 +58461,24 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>1280e0da-780f-4d9c-bc03-d4c1c731b723</InstanceId>
-      <StartTime>PT2M55.9794481S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <Name>bano-chech</Name>
-          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT0.7366956S</TimeSpan>
-      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>b46165a5-f6a0-4853-b2e6-de8e1a1ea0ff</InstanceId>
       <StartTime>PT2M55.9794481S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <Name>linea-chech</Name>
           <NodeId>d91a5128-cf5b-47ce-9cfd-5e37549927b3</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT0.7366956S</TimeSpan>
+      <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>1280e0da-780f-4d9c-bc03-d4c1c731b723</InstanceId>
+      <StartTime>PT2M55.9794481S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <Name>bano-chech</Name>
+          <NodeId>8a0b468c-b566-4cc1-a2f0-50426d0bfb11</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT0.7366956S</TimeSpan>
@@ -58560,7 +58560,7 @@
     <SourceName>Enter Sandman.mp3</SourceName>
   </_selectedTimingProviderSurrogate>
   <DefaultPlaybackEndTime i:nil="true" />
-  <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
+  <DefaultPlaybackStartTime>PT1M6.2526284S</DefaultPlaybackStartTime>
   <DefaultRowHeight>111</DefaultRowHeight>
   <DefaultSplitterDistance>0</DefaultSplitterDistance>
   <LabeledMarkCollections xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
@@ -76568,5 +76568,5 @@
     </d1p1:KeyValueOfstringRowSettingEF_SIuqLd>
   </RowSettings>
   <TimePerPixel>PT0.0051188S</TimePerPixel>
-  <VisibleTimeStart>PT2M57.0135724S</VisibleTimeStart>
+  <VisibleTimeStart>PT2M57.9561801S</VisibleTimeStart>
 </TimedSequenceData>
