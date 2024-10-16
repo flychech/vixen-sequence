@@ -1,0 +1,21 @@
+{
+  "id": "473bc827-7d1f-4856-8c1a-31f03873bbdc",
+  "name": "entersandman6",
+  "elementMappings": [
+    {
+      "sourceName": "bano-chech",
+      "sourceId": "10683f9b-5909-47fb-a5e2-c4742879930c",
+      "targetName": "bano-chech",
+      "targetId": "18a20682-df20-4003-b46d-71601b16dc1e",
+      "isDirty": true
+    },
+    {
+      "sourceName": "bano-robert",
+      "sourceId": "91b27111-1e0f-4c0c-9bb2-b533f523af08",
+      "targetName": "bano-robert",
+      "targetId": "c7ebb9c6-14da-43b7-a4bf-3ddb474fe549",
+      "isDirty": true
+    }
+  ],
+  "isDirty": true
+}
